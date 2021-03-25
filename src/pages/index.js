@@ -2,7 +2,7 @@ import React from "react"
 
 export default function Home() {
   return (
-  	<div className="bg-gray-400">
+  	<div className="bg-gray-500">
   		prova di testo due
   	</div>
   )
